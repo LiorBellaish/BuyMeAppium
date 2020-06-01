@@ -85,6 +85,7 @@ public class Tests {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
+    
     @AfterClass
     public static void afterClass() {
         driver.closeApp();
