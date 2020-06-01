@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+<appPackage1>appPackage</appPackage1>
+<appPackage2>il.co.mintapp.buyme</appPackage2>
+<appActivity1>appActivity</appActivity1>
+<appActivity2>il.co.mintapp.buyme.activities.common.SplashScreen</appActivity2>
+<reportPath>C:\Users\טניה וליאור\IdeaProjects\BuyMeAppium\BuyMeAppiumReport.html</reportPath>
+<loadConfig>C:\\Users\\טניה וליאור\\IdeaProjects\\BuyMeAppium\\reportConfig.xml</loadConfig>
+
+<budget>320</budget>
+<receiver>Tanya</receiver>
+<blessing>Happy Birthday!!!</blessing>
+<sender>Lior</sender>
+<email>bellaish2@gmail.com</email>
+</config>
